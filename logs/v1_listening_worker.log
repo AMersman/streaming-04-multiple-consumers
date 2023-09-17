@@ -1,0 +1,12 @@
+2023-09-17 09:52:03,574.v1_listening_worker.INFO ==================================================
+2023-09-17 09:52:03,574.v1_listening_worker.INFO Today is 2023-09-17 at 09:52 AM
+2023-09-17 09:52:03,574.v1_listening_worker.INFO Running on: posix Darwin 19.6.0
+2023-09-17 09:52:03,574.v1_listening_worker.INFO Python version:  3.11.4
+2023-09-17 09:52:03,575.v1_listening_worker.INFO Python path: /Users/ashleymersman/Desktop/Streaming/streaming-04-multiple-consumers/.venv
+2023-09-17 09:52:03,575.v1_listening_worker.INFO Working dir: /Users/ashleymersman/Desktop/Streaming/streaming-04-multiple-consumers
+2023-09-17 09:52:03,575.v1_listening_worker.INFO ==================================================
+2023-09-17 09:52:03,591.v1_listening_worker.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-17 09:52:03,593.v1_listening_worker.INFO  [x] Received First task...
+2023-09-17 09:52:06,598.v1_listening_worker.INFO  [x] Done
+2023-09-17 09:52:06,600.v1_listening_worker.INFO  [x] Received First task...
+2023-09-17 09:52:09,605.v1_listening_worker.INFO  [x] Done

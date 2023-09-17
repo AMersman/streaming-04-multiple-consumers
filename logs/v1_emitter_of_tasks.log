@@ -1,0 +1,10 @@
+2023-09-17 09:58:08,784.v1_emitter_of_tasks.INFO ==================================================
+2023-09-17 09:58:08,785.v1_emitter_of_tasks.INFO Today is 2023-09-17 at 09:58 AM
+2023-09-17 09:58:08,786.v1_emitter_of_tasks.INFO Running on: posix Darwin 19.6.0
+2023-09-17 09:58:08,786.v1_emitter_of_tasks.INFO Python version:  3.11.4
+2023-09-17 09:58:08,786.v1_emitter_of_tasks.INFO Python path: /Users/ashleymersman/Desktop/Streaming/streaming-04-multiple-consumers/.venv
+2023-09-17 09:58:08,787.v1_emitter_of_tasks.INFO Working dir: /Users/ashleymersman/Desktop/Streaming/streaming-04-multiple-consumers
+2023-09-17 09:58:08,787.v1_emitter_of_tasks.INFO ==================================================
+2023-09-17 09:58:11,933.v1_emitter_of_tasks.INFO ---***---
+2023-09-17 09:58:12,134.v1_emitter_of_tasks.INFO Answer is y
+2023-09-17 09:58:12,201.v1_emitter_of_tasks.INFO  [x] Sent First task...
