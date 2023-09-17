@@ -64,3 +64,5 @@ Which worker gets which tasks?
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:
+
+<img width="1440" alt="Concurrent" src="https://github.com/AMersman/streaming-04-multiple-consumers/assets/91644580/88705150-7a22-42a0-83fd-02b59a14506b">
