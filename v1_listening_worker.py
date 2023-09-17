@@ -82,7 +82,7 @@ if __name__ == "__main__":
         listen_for_tasks()
 
     except KeyboardInterrupt:
-        print("Interrupted")
+        logger.info("Interrupted")
         try:
             sys.exit(0)
         except SystemExit:

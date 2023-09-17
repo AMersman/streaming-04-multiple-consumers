@@ -47,7 +47,7 @@ import datetime
 
 # Declare constants (typically constants are named with ALL_CAPS)
 
-DIVIDER = "=" * 50  # A string divider for cleaner output formatting
+DIVIDER = "-" * 50  # A string divider for cleaner output formatting
 
 # Define program functions (reusable bits of code)
 

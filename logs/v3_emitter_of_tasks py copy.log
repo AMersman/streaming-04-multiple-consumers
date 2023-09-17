@@ -1,0 +1,34 @@
+2023-09-17 10:15:21,390.v3_emitter_of_tasks py copy.INFO --------------------------------------------------
+2023-09-17 10:15:21,390.v3_emitter_of_tasks py copy.INFO Today is 2023-09-17 at 10:15 AM
+2023-09-17 10:15:21,390.v3_emitter_of_tasks py copy.INFO Running on: posix Darwin 19.6.0
+2023-09-17 10:15:21,390.v3_emitter_of_tasks py copy.INFO Python version:  3.11.4
+2023-09-17 10:15:21,390.v3_emitter_of_tasks py copy.INFO Python path: /Users/ashleymersman/Desktop/Streaming/streaming-04-multiple-consumers/.venv
+2023-09-17 10:15:21,391.v3_emitter_of_tasks py copy.INFO Working dir: /Users/ashleymersman/Desktop/Streaming/streaming-04-multiple-consumers
+2023-09-17 10:15:21,391.v3_emitter_of_tasks py copy.INFO --------------------------------------------------
+2023-09-17 10:15:21,421.v3_emitter_of_tasks py copy.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-17 10:15:28,548.v3_emitter_of_tasks py copy.INFO  [x] Received Second task.....
+2023-09-17 10:15:33,553.v3_emitter_of_tasks py copy.INFO  [x] Done.
+2023-09-17 10:21:13,821.v3_emitter_of_tasks py copy.INFO  [x] Received ['First task....']
+2023-09-17 10:21:17,826.v3_emitter_of_tasks py copy.INFO  [x] Done.
+2023-09-17 10:21:17,827.v3_emitter_of_tasks py copy.INFO  [x] Received ['Second task....']
+2023-09-17 10:21:21,833.v3_emitter_of_tasks py copy.INFO  [x] Done.
+2023-09-17 10:21:21,834.v3_emitter_of_tasks py copy.INFO  [x] Received ['Third task....']
+2023-09-17 10:21:25,835.v3_emitter_of_tasks py copy.INFO  [x] Done.
+2023-09-17 10:21:25,844.v3_emitter_of_tasks py copy.INFO  [x] Received ['Forth task...']
+2023-09-17 10:21:28,847.v3_emitter_of_tasks py copy.INFO  [x] Done.
+2023-09-17 10:21:28,849.v3_emitter_of_tasks py copy.INFO  [x] Received ['Fifth task...']
+2023-09-17 10:21:31,853.v3_emitter_of_tasks py copy.INFO  [x] Done.
+2023-09-17 10:21:31,854.v3_emitter_of_tasks py copy.INFO  [x] Received ['Sixth task...']
+2023-09-17 10:21:34,855.v3_emitter_of_tasks py copy.INFO  [x] Done.
+2023-09-17 10:26:25,505.v3_emitter_of_tasks py copy.INFO  [x] Received ['First task....']
+2023-09-17 10:26:29,508.v3_emitter_of_tasks py copy.INFO  [x] Done.
+2023-09-17 10:26:29,510.v3_emitter_of_tasks py copy.INFO  [x] Received ['Second task....']
+2023-09-17 10:26:33,514.v3_emitter_of_tasks py copy.INFO  [x] Done.
+2023-09-17 10:26:33,515.v3_emitter_of_tasks py copy.INFO  [x] Received ['Third task....']
+2023-09-17 10:26:37,517.v3_emitter_of_tasks py copy.INFO  [x] Done.
+2023-09-17 10:26:37,519.v3_emitter_of_tasks py copy.INFO  [x] Received ['Forth task...']
+2023-09-17 10:26:40,523.v3_emitter_of_tasks py copy.INFO  [x] Done.
+2023-09-17 10:26:40,525.v3_emitter_of_tasks py copy.INFO  [x] Received ['Fifth task...']
+2023-09-17 10:26:43,525.v3_emitter_of_tasks py copy.INFO  [x] Done.
+2023-09-17 10:26:43,526.v3_emitter_of_tasks py copy.INFO  [x] Received ['Sixth task...']
+2023-09-17 10:26:46,530.v3_emitter_of_tasks py copy.INFO  [x] Done.
