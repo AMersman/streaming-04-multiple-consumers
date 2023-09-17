@@ -1,13 +1,19 @@
-2023-09-17 10:33:53,584.v3_emitter_of_tasks.INFO --------------------------------------------------
-2023-09-17 10:33:53,584.v3_emitter_of_tasks.INFO Today is 2023-09-17 at 10:33 AM
-2023-09-17 10:33:53,584.v3_emitter_of_tasks.INFO Running on: posix Darwin 19.6.0
-2023-09-17 10:33:53,584.v3_emitter_of_tasks.INFO Python version:  3.11.4
-2023-09-17 10:33:53,584.v3_emitter_of_tasks.INFO Python path: /Users/ashleymersman/Desktop/Streaming/streaming-04-multiple-consumers/.venv
-2023-09-17 10:33:53,584.v3_emitter_of_tasks.INFO Working dir: /Users/ashleymersman/Desktop/Streaming/streaming-04-multiple-consumers
-2023-09-17 10:33:53,585.v3_emitter_of_tasks.INFO --------------------------------------------------
-2023-09-17 10:33:53,598.v3_emitter_of_tasks.INFO [x] Sent ['First task....']
-2023-09-17 10:33:56,600.v3_emitter_of_tasks.INFO [x] Sent ['Second task....']
-2023-09-17 10:33:59,606.v3_emitter_of_tasks.INFO [x] Sent ['Third task....']
-2023-09-17 10:34:02,612.v3_emitter_of_tasks.INFO [x] Sent ['Forth task...']
-2023-09-17 10:34:05,618.v3_emitter_of_tasks.INFO [x] Sent ['Fifth task...']
-2023-09-17 10:34:08,623.v3_emitter_of_tasks.INFO [x] Sent ['Sixth task...']
+2023-09-17 10:36:43,239.v3_emitter_of_tasks.INFO --------------------------------------------------
+2023-09-17 10:36:43,239.v3_emitter_of_tasks.INFO Today is 2023-09-17 at 10:36 AM
+2023-09-17 10:36:43,239.v3_emitter_of_tasks.INFO Running on: posix Darwin 19.6.0
+2023-09-17 10:36:43,239.v3_emitter_of_tasks.INFO Python version:  3.11.4
+2023-09-17 10:36:43,240.v3_emitter_of_tasks.INFO Python path: /Users/ashleymersman/Desktop/Streaming/streaming-04-multiple-consumers/.venv
+2023-09-17 10:36:43,240.v3_emitter_of_tasks.INFO Working dir: /Users/ashleymersman/Desktop/Streaming/streaming-04-multiple-consumers
+2023-09-17 10:36:43,240.v3_emitter_of_tasks.INFO --------------------------------------------------
+2023-09-17 10:36:43,257.v3_emitter_of_tasks.INFO [x] Sent ['First task....']
+2023-09-17 10:36:46,263.v3_emitter_of_tasks.INFO [x] Sent ['Second task....']
+2023-09-17 10:36:49,266.v3_emitter_of_tasks.INFO [x] Sent ['Third task....']
+2023-09-17 10:36:52,268.v3_emitter_of_tasks.INFO [x] Sent ['Forth task...']
+2023-09-17 10:36:55,271.v3_emitter_of_tasks.INFO [x] Sent ['Fifth task...']
+2023-09-17 10:36:58,273.v3_emitter_of_tasks.INFO [x] Sent ['Sixth task...']
+2023-09-17 10:37:01,276.v3_emitter_of_tasks.INFO [x] Sent ['The only time I got to praying for a red light...']
+2023-09-17 10:37:04,278.v3_emitter_of_tasks.INFO [x] Sent ['Was when I saw your destination as a deadline...']
+2023-09-17 10:37:07,280.v3_emitter_of_tasks.INFO [x] Sent ["This is normal conversation, babe, it's all fine..."]
+2023-09-17 10:37:10,283.v3_emitter_of_tasks.INFO [x] Sent ['Making quiet calculations where the fault lies']
+2023-09-17 10:37:13,285.v3_emitter_of_tasks.INFO [x] Sent ['This is good land', ' or at least it was...']
+2023-09-17 10:37:16,287.v3_emitter_of_tasks.INFO [x] Sent ['It takes a strong hand and a sound mind...']
