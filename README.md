@@ -1,3 +1,9 @@
+* Ashley Mersman
+* Streaming Data - Fall 2023
+* Module 4
+This project uses RabbitMQ to send messages/tasks from a producer to consumers based on the RabbitMQ tutorial
+
+
 # streaming-04-multiple-consumers
 
 > Use RabbitMQ to distribute tasks to multiple workers
